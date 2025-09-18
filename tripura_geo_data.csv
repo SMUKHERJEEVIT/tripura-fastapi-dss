@@ -1,0 +1,12 @@
+District,Village,Vegetation Index (NDVI) Range,Soil Index (Moisture) Range,Water Index (NDWI) Range,Geographic Rationale
+West Tripura,Agartala,0.20 - 0.45,0.25 - 0.40,0.10 - 0.30,"State capital, higher urban density."
+West Tripura,Jirania,0.35 - 0.60,0.30 - 0.55,0.20 - 0.45,Mix of semi-urban and agricultural land.
+West Tripura,Mohanpur,0.40 - 0.70,0.40 - 0.65,0.30 - 0.50,Predominantly rural and agricultural landscape.
+Gomati,Udaipur,0.30 - 0.65,0.45 - 0.70,0.40 - 0.70,Known for temples and several large lakes.
+Gomati,Amarpur,0.55 - 0.80,0.50 - 0.70,0.35 - 0.60,Hilly areas with good forest cover and water bodies.
+Gomati,Karbook,0.60 - 0.85,0.45 - 0.65,0.25 - 0.50,"Remote, hilly sub-division with significant forest."
+Dhalai,Ambassa,0.65 - 0.90,0.50 - 0.75,0.30 - 0.55,District HQ with large surrounding forest reserves.
+Dhalai,Kamalpur,0.50 - 0.80,0.45 - 0.70,0.30 - 0.50,Mix of plains for agriculture and adjacent forests.
+Dhalai,Manu,0.60 - 0.85,0.50 - 0.70,0.25 - 0.45,Known for proximity to forests and hilly terrain.
+Sepahijala,Bishalgarh,0.40 - 0.70,0.40 - 0.65,0.30 - 0.60,Known for rubber plantations and the Sepahijala sanctuary.
+Sepahijala,Sonamura,0.35 - 0.60,0.55 - 0.80,0.50 - 0.80,"Border town near the Gumti River, prone to moisture."
